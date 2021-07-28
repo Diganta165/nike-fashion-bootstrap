@@ -1,0 +1,17 @@
+/* Common Styles */
+
+.highlight-color-one{
+    color: #FA804C;
+}
+.highlight-color-two{
+    color:#363958;
+}
+
+
+/* Navigation Bar Styles */
+.header-section{
+    background-color: #FFF9F4;
+}
+.header-right{
+    padding-left: 200px;
+}
